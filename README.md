@@ -1,9 +1,13 @@
-# IMPORTANTE
+# Nota
+No se incluye ningún instalador o herramienta para modificar estos archivos, ya que se han extraído directamente de una instalación existente. Todo fué extraído de una net Sarmiento.
 
-Estos archivos vienen de una net Sarmiento. Son archivos extraídos directamente de la carpeta `C:\Program Files (x86)\Intel Education Software\Theft Deterrent client`
-y no creo que exista algún instalador o algo similar para tener los archivos sun modificar (Por que muy probablemente estos archivos estén modificados).
+# Archivos de Theft Deterrent Client
+Archivos extraídos de una versión de Theft Deterrent que desconozco si es nueva. Los archivos provienen de la ruta:
+`C:\Program Files (x86)\Intel Education Software\Theft Deterrent client`
 
-Subo esto por que probablemente tenga algo que otras versiones no (y también por que quiero probarlo en mi computadora).
-En todo caso si me estoy equivocando hagamelo saber en la sección de **Issues**.
+## Propósito del Repositorio
+Decidí subir estos archivos porque podrían contener características o configuraciones específicas que no se encuentran en otras versiones. Además, quiero probar estos archivos en mi propia computadora. Si tenes información adicional por favor, hacemelo saber en la sección de **Issues**.
 
-Algo más para añadir es que el servidor que trae es este: `td.alu.bue.edu.ar`
+## Información Adicional
+El servidor que venía en la net es:
+`td.alu.bue.edu.ar`
