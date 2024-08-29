@@ -1,5 +1,5 @@
 # Nota
-No se incluye ningún instalador o herramienta para modificar estos archivos, ya que se han extraído directamente de una instalación existente. Todo fué extraído de una net Sarmiento.
+No se incluye ningún instalador o herramienta para modificar estos archivos, ya que se han extraído directamente de una instalación existente. Todo fué extraído de una net Sarmiento con Windows 10.
 
 # Archivos de Theft Deterrent Client
 Archivos extraídos de una versión de Theft Deterrent que desconozco si es nueva. Los archivos provienen de la ruta:
